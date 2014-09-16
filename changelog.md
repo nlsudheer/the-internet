@@ -1,3 +1,26 @@
+#0.34.0
++ Added an example that demonstrates a slow loading resource
+
+#0.33.3
++ More of the same -- found some more external resources that needed to be brought internally due to latency (CSS and JS files)
+
+#0.33.2
++ Pulled the GitHub ribbon image to the repo to avoid latency issues when running on slow connections
+
+#0.33.1
++ Added a unique ID to the context menu example for easier scoping
++ Also added a note to the context menu example stating that it currently only works in Firefox (and linked to the open issue for it)
+
+#0.33.0
++ Fixed invalid markup per issue #11
++ Added an example for right-click menu additions (a.k.a. context menus)
+
+#0.32.0
++ Added key presses example
+
+#0.31.0
++ Updated upload example to not assume an image was being uploaded. So now it just lists the file that was uploaded.
+
 #0.30.0
 + Reworked /frames so now it is a guide page with links to /nested_frames and /iframe
 
